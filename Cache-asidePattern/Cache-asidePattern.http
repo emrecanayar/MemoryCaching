@@ -1,0 +1,6 @@
+@Cache_asidePattern_HostAddress = http://localhost:5012
+
+GET {{Cache_asidePattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
