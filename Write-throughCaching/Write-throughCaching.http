@@ -1,0 +1,6 @@
+@Write_throughCaching_HostAddress = http://localhost:5159
+
+GET {{Write_throughCaching_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
