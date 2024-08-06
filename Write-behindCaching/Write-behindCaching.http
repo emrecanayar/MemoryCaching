@@ -1,0 +1,6 @@
+@Write_behindCaching_HostAddress = http://localhost:5020
+
+GET {{Write_behindCaching_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
